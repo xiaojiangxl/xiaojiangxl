@@ -17,8 +17,6 @@
 ![GitHub stats](https://github-immortality.vercel.app/api?username=xiaojiangxl)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojiangxl&layout=compact)](https://github.com/anuraghazra/github-readme-stats "View Top Languages")
-
 <table>
   <tr>
     <td>🥰恭喜您成为第</td>
